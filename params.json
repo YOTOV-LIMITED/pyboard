@@ -1,0 +1,6 @@
+{
+  "name": "Pyboard",
+  "tagline": "The MicroPython board",
+  "body": "The Micro Python board\r\n======================\r\n\r\nThe Micro Python board (pyboard) is a small microcontroller board\r\nthat runs Micro Python (Micro Python is a lean and fast \r\nimplementation of the Python 3 programming language that is \r\noptimised to run on a microcontroller).  It is based on the \r\nSTM32F405RGT6 MCU and includes USB, a micro SD card slot and an \r\naccelerometer.\r\n\r\nThe production board is PYBv10b.  The schematics and pinout can be\r\nfound in the root directory of this repository, the PDF files\r\nprefixed with PYBv10b.\r\n\r\nOld files exist for PYBv3.  Eagle files and gerbers for PYBv10b\r\nwill be available soon.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
